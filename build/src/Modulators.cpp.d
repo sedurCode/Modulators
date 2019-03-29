@@ -1,4 +1,4 @@
-build/src/MyModule.cpp.o: src/MyModule.cpp src/Modulators.hpp \
+build/src/Modulators.cpp.o: src/Modulators.cpp src/Modulators.hpp \
   ../../include/rack.hpp ../../include/util/common.hpp \
   ../../include/util/math.hpp ../../include/asset.hpp \
   ../../include/plugin.hpp ../../include/tags.hpp \
